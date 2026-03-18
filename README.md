@@ -20,3 +20,6 @@ RemoteURL: Where the central repository is hosted.
 LastUpdate: When the Ignition script last polled this data.
 
 CommitsBehind: How many commits the local branch is behind the local cache of the remote branch.
+
+Example of instance created:
+<img width="700" height="271" alt="image" src="https://github.com/user-attachments/assets/69786ff3-c0cd-47d4-80b9-a0de2d40d24e" />
